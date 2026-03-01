@@ -66,16 +66,16 @@ The system separates:
 
 ## Project Roadmap
 
-### Phase 1: Data Understanding & Cleaning *(Planned)*
+### Phase 1: Data Understanding & Cleaning *(In Progress)*
 
 **Goal:**
 Ensure statistical validity and modeling readiness.
 
-**Planned Feature:**
--  Inspect missing values
--  Validate numeric consistency
--  Handle outliers if necessary
--  Standardize features for modeling
+**Incompleted Tasks**
+- [ ] Inspect missing values
+- [ ] Validate numeric consistency
+- [ ] Handle outliers if necessary
+- [ ] Standardize features for modeling
 
 ---
 
