@@ -89,10 +89,13 @@ Understand nutrient density behavior.
 - [x] Skewness
   - [x] Calorie distribution
   - [x] Protein distribution
+- [x] Protein density concentration
+- [x] Sugar and fat distribution patterns
+  - [x] Sugar distribution characteristics
+  - [x] Fat distribution characteristics
+  - [x] Sugar vs fat structural comparison
 
 **Incompleted Tasks**
-- [ ] Protein density concentration
-- [ ] Sugar and fat distribution patterns
 - [ ] Micronutrient variance
 
 ---
