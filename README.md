@@ -71,7 +71,7 @@ The system separates:
 **Goal:**
 Ensure statistical validity and modeling readiness.
 
-**Incompleted Tasks**
+**Completed Tasks**
 - [x] Inspect missing values
   - [x] Handle missing values
 - [x] Validate numeric consistency
@@ -80,16 +80,20 @@ Ensure statistical validity and modeling readiness.
 
 ---
 
-### Phase 2: Distribution Analysis *(Planned)*
+### Phase 2: Distribution Analysis *(In Progress)*
 
 **Goal:**  
 Understand nutrient density behavior.
 
-**Planned Feature:**
-- Skewness of calorie distribution
-- Protein density concentration
-- Sugar and fat distribution patterns
-- Micronutrient variance
+**Completed Tasks**
+- [x] Skewness
+  - [x] Calorie distribution
+  - [x] Protein distribution
+
+**Incompleted Tasks**
+- [ ] Protein density concentration
+- [ ] Sugar and fat distribution patterns
+- [ ] Micronutrient variance
 
 ---
 
