@@ -108,10 +108,9 @@ Identify structurally bound nutritional variables.
 - [x] Correlation between nutritional variables
   - [x] Pearson correlation matrix
   - [x] Correlation heatmap visualization
-
-**Incompleted Tasks**
-- [ ] Detect macro–micro dependencies
-- [ ] Identify redundant dimensions
+  - [x] Correlation structure interpretation
+  - [x] Detect macro–micro dependencies
+- [x] Identify redundant dimensions
 
 ---
 
@@ -139,6 +138,20 @@ Discover natural food group segmentation.
 - Elbow method for optimal k
 - PCA-based visualization
 - Cluster nutritional profiling
+
+---
+
+### Phase 6: Nutritional Structure Insights *(Planned)*
+
+**Goal:**  
+Translate statistical patterns into interpretable nutritional insights.
+
+**Planned Feature:**
+- Interpret PCA axes
+- Identify nutritional archetypes
+- Explain cluster nutritional profiles
+- Compare cluster nutrient densities
+- Summarize structural insights
 
 ---
 
