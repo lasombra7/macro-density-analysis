@@ -98,17 +98,20 @@ Understand nutrient density behavior.
 
 ---
 
-### Phase 3: Correlation Structure Modeling *(Planned)*
+### Phase 3: Correlation Structure Modeling *(In Progress)*
 
 **Goal:**  
 Identify structurally bound nutritional variables.
 
-**Planned Feature:**
-- Standardization
-- Pearson correlation matrix
-- Heatmap visualization
-- Detect macro–micro dependencies
-- Identify redundant dimensions
+**Completed Tasks**
+- [x] Standardization
+- [x] Correlation between nutritional variables
+  - [x] Pearson correlation matrix
+  - [x] Correlation heatmap visualization
+
+**Incompleted Tasks**
+- [ ] Detect macro–micro dependencies
+- [ ] Identify redundant dimensions
 
 ---
 
