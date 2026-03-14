@@ -73,10 +73,12 @@ Ensure statistical validity and modeling readiness.
 
 **Completed Tasks**
 - [x] Inspect missing values
-  - [x] Handle missing values
+  - [x] Duplicate value check
+  - [x] Abnormal value check
+  - [x] Missing value check
+    - [x] Handle missing values
 - [x] Validate numeric consistency
 - [x] Handle outliers if necessary
-- [x] Standardize features for modeling
 
 ---
 
