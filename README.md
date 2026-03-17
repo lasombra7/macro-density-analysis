@@ -8,7 +8,7 @@ Rather than analyzing nutrients independently, it treats nutrition as a high-dim
 ## Features (Current Phase)
 
 - Full exploratory data analysis (EDA)
-- Distribution analysis for macro- and micronutrients
+- Distribution analysis for macronutrients and micronutrients
 - Pearson correlation structure mapping
 - Principal Component Analysis (PCA)
 - K-Means clustering in reduced nutritional space
@@ -143,7 +143,7 @@ Discover natural food group segmentation.
 
 ---
 
-### Phase 6: Nutritional Structure Insights *(Planned)*
+### Phase 6: Structural Interpretation *(Planned)*
 
 **Goal:**  
 Translate statistical patterns into interpretable nutritional insights.
@@ -154,15 +154,6 @@ Translate statistical patterns into interpretable nutritional insights.
 - Explain cluster nutritional profiles
 - Compare cluster nutrient densities
 - Summarize structural insights
-
----
-
-## Expected Structural Insights
-
-- Energy density axis vs micronutrient density axis
-- Fat–calorie structural binding
-- Sugar–carbohydrate dependency
-- Nutritional-density-driven food clusters
 
 ---
 
