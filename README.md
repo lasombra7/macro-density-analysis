@@ -71,7 +71,7 @@ The system separates:
 **Goal:**
 Ensure statistical validity and modeling readiness.
 
-**Completed Tasks**
+**Completed Tasks:**
 - [x] Inspect missing values
   - [x] Duplicate value check
   - [x] Abnormal value check
@@ -87,7 +87,7 @@ Ensure statistical validity and modeling readiness.
 **Goal:**  
 Understand nutrient density behavior.
 
-**Completed Tasks**
+**Completed Tasks:**
 - [x] Skewness
   - [x] Calorie distribution
   - [x] Protein distribution
@@ -100,12 +100,12 @@ Understand nutrient density behavior.
 
 ---
 
-### Phase 3: Correlation Structure Modeling *(In Progress)*
+### Phase 3: Correlation Structure Modeling ✅ *(Completed)*
 
 **Goal:**  
 Identify structurally bound nutritional variables.
 
-**Completed Tasks**
+**Completed Tasks:**
 - [x] Standardization
 - [x] Correlation between nutritional variables
   - [x] Pearson correlation matrix
@@ -116,17 +116,18 @@ Identify structurally bound nutritional variables.
 
 ---
 
-### Phase 4: Principal Component Analysis (PCA) *(Planned)*
+### Phase 4: Principal Component Analysis (PCA) *(In Progress)*
 
 **Goal:**  
-Reveal latent nutritional axes.
+Reveal latent nutritional axes through demensionality reduction.
 
-**Planned Feature:**
-- Standardize feature space
-- Compute PCA components
-- Explained variance ratio analysis
-- Loading interpretation
-- Naming principal axes
+**Completed Tasks:**
+- [x] Compute PCA components
+
+**Incompleted Tasks:**
+- [ ] Explained variance ratio analysis
+- [ ] Loading interpretation
+- [ ] Naming principal axes
 
 ---
 
