@@ -123,9 +123,9 @@ Reveal latent nutritional axes through demensionality reduction.
 
 **Completed Tasks:**
 - [x] Compute PCA components
+- [x] Explained variance ratio analysis
 
 **Incompleted Tasks:**
-- [ ] Explained variance ratio analysis
 - [ ] Loading interpretation
 - [ ] Naming principal axes
 
