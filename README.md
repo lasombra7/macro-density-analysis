@@ -135,11 +135,11 @@ Reveal latent nutritional axes through demensionality reduction.
 Discover natural food group segmentation.
 
 **Complete Tasks:**
+- [x]K-Means clustering
+- [x]Elbow method for optimal k
+- [x]PCA-based visualization
 
 **Incomplete Tasks:**
-- [ ]K-Means clustering
-- [ ]Elbow method for optimal k
-- [ ]PCA-based visualization
 - [ ]Cluster nutritional profiling
 
 ---
