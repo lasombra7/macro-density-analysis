@@ -129,18 +129,16 @@ Reveal latent nutritional axes through demensionality reduction.
 
 ---
 
-### Phase 5: Nutrition Pattern Clustering *(In Progress)*
+### Phase 5: Nutrition Pattern Clustering ✅ *(Completed)*
 
 **Goal:**  
 Discover natural food group segmentation.
 
 **Complete Tasks:**
-- [x]K-Means clustering
-- [x]Elbow method for optimal k
-- [x]PCA-based visualization
-
-**Incomplete Tasks:**
-- [ ]Cluster nutritional profiling
+- [x] K-Means clustering
+- [x] Elbow method for optimal k
+- [x] PCA-based visualization
+- [x] Cluster nutritional profiling
 
 ---
 
