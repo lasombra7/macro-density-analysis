@@ -195,3 +195,8 @@ Understanding nutritional structure at a multivariate level enables:
 - Optimization-ready macro modeling
 - Transparent decision logic for automated meal systems
 
+---
+
+## Notebook
+
+[View full analysis notebook](https://github.com/lasombra7/macro-density-analysis/blob/main/notebooks/macro-density-analysis.ipynb)
