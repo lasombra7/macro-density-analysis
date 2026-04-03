@@ -67,94 +67,21 @@ This combination enables both structural decomposition and pattern discovery wit
 
 ---
 
-## Project Roadmap
+## Research Pipeline
 
-### Phase 1: Data Understanding & Cleaning ✅ *(Completed)*
-
-**Goal:**
-Ensure statistical validity and modeling readiness.
-
-**Completed Tasks:**
-- [x] Inspect missing values
-  - [x] Duplicate value check
-  - [x] Abnormal value check
-  - [x] Missing value check
-    - [x] Handle missing values
-- [x] Validate numeric consistency
-- [x] Handle outliers if necessary
-
----
-
-### Phase 2: Distribution Analysis ✅ *(Completed)*
-
-**Goal:**  
-Understand nutrient density behavior.
-
-**Completed Tasks:**
-- [x] Skewness
-  - [x] Calorie distribution
-  - [x] Protein distribution
-- [x] Protein density concentration
-- [x] Sugar and fat distribution patterns
-  - [x] Sugar distribution characteristics
-  - [x] Fat distribution characteristics
-  - [x] Sugar vs fat structural comparison
-- [x] Micronutrient variance
-
----
-
-### Phase 3: Correlation Structure Modeling ✅ *(Completed)*
-
-**Goal:**  
-Identify structurally bound nutritional variables.
-
-**Completed Tasks:**
-- [x] Standardization
-- [x] Correlation between nutritional variables
-  - [x] Pearson correlation matrix
-  - [x] Correlation heatmap visualization
-  - [x] Correlation structure interpretation
-  - [x] Detect macro–micro dependencies
-- [x] Identify redundant dimensions
-
----
-
-### Phase 4: Principal Component Analysis (PCA) ✅ *(Completed)*
-
-**Goal:**  
-Reveal latent nutritional axes through dimensionality reduction.
-
-**Completed Tasks:**
-- [x] Compute PCA components
-- [x] Explained variance ratio analysis
-- [x] Loading interpretation
-- [x] Naming principal axes
-
----
-
-### Phase 5: Nutrition Pattern Clustering ✅ *(Completed)*
-
-**Goal:**  
-Discover natural food group segmentation.
-
-**Completed Tasks:**
-- [x] K-Means clustering
-- [x] Elbow method for optimal k
-- [x] PCA-based visualization
-- [x] Cluster nutritional profiling
-
----
-
-### Phase 6: Structural Interpretation ✅ *(Completed)*
-
-**Goal:**  
-Translate statistical patterns into interpretable nutritional insights.
-
-**Compeleted Tasks:**
-- [x] Global Nutritional Space Interpretation
-- [x] Clusters in Nutritional Space
-- [x] Identify nutritional archetypes
-- [x] Structural Synthesis
+This project follows a structured analytical workflow to uncover the latent structure of nutritional data:
+### 1. Data Preparation
+   Cleaning, validation, and normalization to ensure statistical consistency
+### 2. Distribution Analysis
+   Modeling nutrient distributions and identifying skewness and variance patterns
+### 3. Correlation Structure Modeling
+   Analyzing dependencies between nutrients and detecting redundant dimensions
+### 4. Dimensionality Reduction (PCA)
+   Extracting latent nutritional axes and defining the geometry of the feature space
+### 5. Pattern Discovery (Clustering)
+   Grouping foods into distinct nutritional clusters in the reduced space
+### 6. Structural Interpretation
+   Interpreting clusters as nutritional archetypes and synthesizing global structure
 
 ---
 
